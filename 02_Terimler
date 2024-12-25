@@ -1,1 +1,16 @@
-Project:Proje
+Project : Proje
+Blueprint : Taslak
+Object : Nesne
+Class : Sınıf
+Parent/Chil : Aile/Çocuk
+İnherit : Miras
+Actor : Aktör
+Compenents : Bileşen
+Pawn : Piyon
+Posessed : Ele Geçirilmiş
+Character : Karakter
+Player Controller : Oyuncu Denetleyicisi
+Player State : Oyuncu Durumu
+Game Mod Base : Temel Oyun Modu
+Volumes : Hacimler
+Level and World : Seviye ve Dünya
